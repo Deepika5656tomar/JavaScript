@@ -25,3 +25,6 @@ console.log(gameName.substr(0,4));
 console.log(gameName.repeat(4));
 let text = "We are the so-called \"Vikings\" from the north.";
 console.log(text);
+let text1 = "I love Cats. Cats are very easy to love. Cats are very popular."
+text1 = text1.replaceAll("Cats","Dogs");
+console.log(text1);
