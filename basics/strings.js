@@ -23,3 +23,5 @@ console.log(url.includes('deepika'));
 console.log(gameName.split('-'));
 console.log(gameName.substr(0,4));
 console.log(gameName.repeat(4));
+let text = "We are the so-called \"Vikings\" from the north.";
+console.log(text);
