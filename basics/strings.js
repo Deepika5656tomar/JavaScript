@@ -28,3 +28,7 @@ console.log(text);
 let text1 = "I love Cats. Cats are very easy to love. Cats are very popular."
 text1 = text1.replaceAll("Cats","Dogs");
 console.log(text1);
+const value=100;
+console.log(value);
+const value2=new Number(200);
+console.log(value2);
