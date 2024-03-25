@@ -32,3 +32,4 @@ const value=100;
 console.log(value);
 const value2=new Number(200);
 console.log(value2);
+ 
